@@ -1,0 +1,13 @@
+NUGET
+  remote: https://nuget.org/api/v2
+  specs:
+    FAKE (4.4.4)
+    FSharp.Compiler.Service (1.4.0.5)
+    FSharp.Core (4.0.0.1)
+    FSharp.Data (2.2.5)
+      Zlib.Portable (>= 1.10.0) - framework: portable-net40+sl50+wp80+win80
+    FsPickler (1.4.0)
+    Suave (0.31.2)
+      FSharp.Core (>= 3.1.2.5)
+      FsPickler (>= 1.2.5)
+    Zlib.Portable (1.11.0) - framework: portable-net40+sl50+wp80+win80
